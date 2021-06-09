@@ -13,7 +13,7 @@ var obj2 = obj1.Object;
 var z = obj1.arr;
 
 
-//nhận theo logic
+//nhận theo logic bbb
 console.log(obj1["bien"]);
 console.log(z[2][1]);
 console.log(obj1[y]);
