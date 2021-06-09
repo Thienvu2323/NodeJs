@@ -1,0 +1,7 @@
+var   khai biến
+tring   `` xuống dòng được 
+"" '' không xuống dòng dc 
+
+map // chạy từng phân tử trong ary gốc để tương tác và rturn ra giá trị mới#
+// kết quả mới trả về sec được lưu trong ary mới
+var
